@@ -1,0 +1,25 @@
+Alex Rivera
+Email: alex.rivera.dev@gmail.com | Phone: +1 (555) 723-4911
+LinkedIn: https://linkedin.com/in/alexriveradev | GitHub: https://github.com/arivera-backend
+
+PROFESSIONAL SUMMARY
+Backend Software Engineer with 2.5 years of experience building microservices and RESTful web applications in Python, Django, Flask, and FastAPI. Proficient with PostgreSQL, Redis, Docker, and Git.
+
+WORK EXPERIENCE
+Backend Developer | CloudScale Systems (2022 - Present)
+- Designed and built REST APIs with Python, FastAPI, and Django REST Framework.
+- Optimized database query performance in PostgreSQL using indexes and ORM query tuning.
+- Built background asynchronous task queues with Celery and Redis.
+
+Software Engineer Intern | DataPulse Labs (2021 - 2022)
+- Assisted in developing data pipelines and ETL scripts using Python, Pandas, and NumPy.
+- Wrote unit and integration tests using Pytest and Postman.
+
+EDUCATION
+Bachelor of Science in Computer Engineering
+University of Texas at Austin (2018 - 2022)
+
+TECHNICAL SKILLS
+- Languages: Python, SQL, Java
+- Frameworks: FastAPI, Django, Flask, Pytest
+- Databases & Cloud: PostgreSQL, MongoDB, Redis, Docker, Git, AWS

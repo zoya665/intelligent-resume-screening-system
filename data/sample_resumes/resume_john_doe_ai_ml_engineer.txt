@@ -1,0 +1,31 @@
+John Doe
+Email: john.doe.ai@example.com | Phone: +1 (555) 019-2834
+LinkedIn: https://linkedin.com/in/johndoe-ai | GitHub: https://github.com/johndoe-ml
+
+PROFESSIONAL SUMMARY
+Senior AI/ML Engineer with 4.5+ years of experience designing and deploying scalable Natural Language Processing (NLP) pipelines, predictive models, and REST API microservices. Proficient in Python, Scikit-learn, TensorFlow, FastAPI, Pandas, NumPy, and Docker. Experience building recommendation systems, text classification models, and TF-IDF similarity algorithms.
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | TechCorp Solutions (2022 - Present)
+- Developed an intelligent automated document classification system using Scikit-learn, NLTK, and spaCy, achieving 94% precision on 100k+ documents.
+- Designed high-performance REST APIs using FastAPI and Uvicorn, serving model predictions with sub-50ms latency.
+- Implemented similarity-based candidate matching algorithms leveraging TF-IDF vectorization and Cosine Similarity.
+- Containerized ML models with Docker and deployed microservices on AWS EC2 with CI/CD GitHub Actions pipelines.
+
+AI Software Engineer | DataMind Analytics (2020 - 2022)
+- Built NLP text preprocessing pipelines, tokenization, stop-word removal, and lemmatization for sentiment analysis.
+- Cleaned and manipulated multi-gigabyte datasets using Pandas, NumPy, and SQL databases (PostgreSQL).
+- Trained classification models using Scikit-learn (RandomForest, XGBoost) and evaluated performance metrics (F1-score, ROC-AUC).
+
+EDUCATION
+Master of Science in Computer Science (Artificial Intelligence Specialization)
+University of California, Berkeley (2018 - 2020)
+
+Bachelor of Science in Computer Science
+University of Washington (2014 - 2018)
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++, Bash
+- AI/ML & NLP: Scikit-learn, Natural Language Processing, TF-IDF, NLTK, TensorFlow, PyTorch, Pandas, NumPy, SciPy, XGBoost, Transformers
+- Web Backend: FastAPI, Flask, REST API, Uvicorn, Pydantic
+- Cloud & DevOps: Docker, AWS, Git, CI/CD, Linux, PostgreSQL, Redis

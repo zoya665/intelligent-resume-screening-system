@@ -1,0 +1,25 @@
+Sarah Jenkins
+Email: sarah.jenkins@webdev.io | Phone: +1 (555) 482-9102
+LinkedIn: https://linkedin.com/in/sarahjenkins-dev | GitHub: https://github.com/sjenkins-ui
+
+PROFESSIONAL SUMMARY
+Frontend Developer with 3 years of experience specializing in React.js, TypeScript, Next.js, and CSS/Tailwind. Skilled in responsive design, state management (Redux/Zustand), and integrating REST APIs with backend services.
+
+WORK EXPERIENCE
+Frontend Engineer | Creative UI Studio (2021 - Present)
+- Developed interactive web interfaces using React, TypeScript, and Tailwind CSS.
+- Integrated backend GraphQL and REST APIs, optimizing client-side caching with React Query.
+- Collaborated with UX designers to craft responsive web applications and dashboards.
+
+Junior Web Developer | PixelCraft Agency (2020 - 2021)
+- Built landing pages using HTML5, CSS3, JavaScript, and Vue.js.
+- Improved page load speed performance scores by 35% through image optimization and code splitting.
+
+EDUCATION
+Bachelor of Science in Information Technology
+San Jose State University (2016 - 2020)
+
+TECHNICAL SKILLS
+- Languages: JavaScript, TypeScript, HTML, CSS, SQL
+- Frontend: React, Next.js, Redux, Vue.js, Tailwind CSS, Bootstrap
+- Tools: Git, Figma, Webpack, Vite, Postman, Jest

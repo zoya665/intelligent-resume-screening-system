@@ -1,0 +1,17 @@
+{
+  "title": "Senior AI / ML & NLP Engineer",
+  "description": "We are seeking a talented Senior AI/ML Engineer to develop intelligent NLP pipelines, resume screening algorithms, and automated evaluation systems. The candidate will work with Python, Natural Language Processing, Scikit-learn, Pandas, NumPy, and FastAPI to build similarity-based matching and ranking models.",
+  "required_skills": [
+    "python",
+    "natural language processing",
+    "nlp",
+    "scikit-learn",
+    "pandas",
+    "numpy",
+    "fastapi",
+    "machine learning",
+    "tf-idf",
+    "docker"
+  ],
+  "required_experience": 3.0
+}

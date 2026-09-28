@@ -1,0 +1,14 @@
+{
+  "title": "Backend Python Developer",
+  "description": "Looking for a Backend Developer skilled in Python, FastAPI, Django/Flask, PostgreSQL, Docker, and REST APIs to build scalable cloud microservices.",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "rest api",
+    "postgresql",
+    "docker",
+    "git"
+  ],
+  "required_experience": 2.0
+}
